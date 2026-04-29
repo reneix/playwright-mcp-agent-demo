@@ -1,10 +1,6 @@
-# Playwright MCP Agent Demo
+# 静夜思
 
-This repository demonstrates the integration of Playwright with the Model Context Protocol (MCP) for building autonomous web agents.
-
-## Seven-Character Quatrain
-
-春风拂柳绿，
-燕语绕花飞。
-山色连天远，
-云影入湖微。
+床前明月光，
+疑是地上霜。
+举头望明月，
+低头思故乡。
