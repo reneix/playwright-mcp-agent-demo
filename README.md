@@ -2,7 +2,8 @@
 
 This is a demo repository for the Playwright MCP Agent.
 
-##李白的诗
+## 孟浩然的诗
 
-床前明月光，疑是地上霜。
-举头望明月，低头思故乡。
+《春晓》
+春眠不觉晓，处处闻啼鸟。
+夜来风雨声，花落知多少。
