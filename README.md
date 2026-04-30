@@ -1,22 +1,26 @@
 # playwright-mcp-agent-demo
 
-A demo repository for the Playwright MCP Agent.
+A demo of Playwright MCP Agent.
+
+## Features
+
+- Uses Playwright for browser automation
+- Implements MCP (Model Control Protocol)
+- Supports tool calling and structured reasoning
 
 ## Poem by Bai Juyi
 
-> **Grass on the Ancient Plain — Farewell to a Friend**
->
+> **Grass on the Ancient Plain**
+> 
 > Wild grasses spread o'er ancient plain,
-> With every year, they die and wane;
-> Yet when spring breezes blow anew,
-> They rise again, fresh, green, and true.
->
-> Their roots run deep beneath the ground,
-> Their fragrance fills the air around;
-> Though fire may burn them black and bare,
-> They'll sprout again when rains are fair.
->
-> Far-flung they creep across the land,
-> Till distant hills and roads command;
-> My friend departs — how sad I feel!
-> Yet grasses grow — time will heal.
+> With every year they die and spring again.
+> Burnt by wild fire, they're not destroyed,
+> They rise once more when spring winds blow.
+> Their fragrance fills the boundless air,
+> Their green invades the ruined square.
+> They reach the old road, the desolate town,
+> And greet the parting traveler's frown.
+> Far as the eye can see they grow,
+> Yet vanish where the horizon's low.
+> When friends depart, I feel no pain,
+> For grass will sprout and bloom again.
