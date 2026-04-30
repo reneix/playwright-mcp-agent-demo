@@ -1,27 +1,40 @@
-# Playwright MCP Agent Demo
+# playwright-mcp-agent-demo
 
-This is a demo repository for the Playwright MCP Agent.
+A demo repository for the Playwright MCP Agent.
 
-## 曹操的诗
+## About
 
-> 短歌行
->
-> 对酒当歌，人生几何！
-> 譬如朝露，去日苦多。
-> 慨当以慷，忧思难忘。
-> 何以解忧？唯有杜康。
-> 
-> 青青子衿，悠悠我心。
-> 但为君故，沉吟至今。
-> 呦呦鹿鸣，食野之苹。
-> 我有嘉宾，鼓瑟吹笙。
-> 
-> 明明如月，何时可掇？
-> 忧从中来，不可断绝。
-> 越陌度阡，枉用相存。
-> 契阔谈䜩，心念旧恩。
-> 
-> 月明星稀，乌鹊南飞。
-> 绕树三匝，何枝可依？
-> 山不厌高，海不厌深。
-> 周公吐哺，天下归心.
+This repository showcases how to use Playwright with the Model Context Protocol (MCP) to build intelligent, browser-automated agents.
+
+## Features
+
+- Full browser automation via Playwright
+- Integration with LLMs through MCP
+- Structured tool calling and state management
+- Example tasks: navigation, form filling, screenshot capture
+
+## Usage
+
+1. Clone the repo
+2. Install dependencies
+3. Run the agent
+
+## License
+
+MIT
+
+---
+
+### 柳永词作
+
+**雨霖铃·寒蝉凄切**
+
+寒蝉凄切，对长亭晚，骤雨初歇。
+都门帐饮无绪，留恋处，兰舟催发。
+执手相看泪眼，竟无语凝噎。
+念去去，千里烟波，暮霭沉沉楚天阔。
+
+多情自古伤离别，更那堪，冷落清秋节！
+今宵酒醒何处？杨柳岸，晓风残月。
+此去经年，应是良辰好景虚设。
+便纵有千种风情，更与何人说？
