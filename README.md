@@ -14,7 +14,15 @@ A demo of Playwright MCP Agent.
 
 
 ## Poem by Li Bai
-# playwright-mcp-agent-demo
+
+
+> **Quiet Night Thoughts**
+>
+>
+> Before my bed, the moonlight gleams,
+> Like frost upon the earth it seems.
+> I lift my head and watch the moon,
+> Then bow — thoughts of home come soon.# playwright-mcp-agent-demo
 
 A demo of Playwright MCP Agent.
 
