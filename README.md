@@ -11,7 +11,36 @@ A demo of Playwright MCP Agent.
 ## Poem by Bai Juyi
 
 > **Grass on the Ancient Plain**
+# playwright-mcp-agent-demo
 
+A demo of Playwright MCP Agent.
+
+## Features
+
+- Uses Playwright for browser automation
+- - Implements MCP (Model Control Protocol)
+  - - Supports tool calling and structured reasoning
+   
+    - ## Poem by Bai Juyi
+   
+    - > **Grass on the Ancient Plain**
+      
+      ## Poem by Li Bai
+
+      > **Drinking Alone by Moonlight**
+      > >
+      > >> Among the flowers, a pot of wine,
+      > >> > I drink alone, with no one near.
+      > >> > > I raise my cup to invite the bright moon,
+      > >> > > > And with my shadow, we become three.
+      > >> > > > > Though the moon cannot drink,
+      > >> > > > > > My shadow follows me in vain.
+      > >> > > > > > > I sing — the moon begins to sway,
+      > >> > > > > > > > I dance — my shadow breaks apart.
+      > >> > > > > > > > > When I'm sober, we rejoice together,
+      > >> > > > > > > > > > When drunk, we part and go our ways.
+      > >> > > > > > > > > > > Forever united in this fleeting joy,
+      > >> > > > > > > > > > > > We'll meet again beyond the clouds.
 
 ## Poem by Li Bai
 
