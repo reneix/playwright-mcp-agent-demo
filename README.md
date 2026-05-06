@@ -14,7 +14,23 @@ A demo of Playwright MCP Agent.
 
 
 ## Poem by Bai Juyi
+# playwright-mcp-agent-demo
 
+A demo of Playwright MCP Agent.
+
+Features
+Uses Playwright for browser automation
+Implements MCP (Model Control Protocol)
+Supports tool calling and structured reasoning
+
+## Poem by Li Bai
+
+**Quiet Night Thoughts**
+
+Before my bed, the moonlight gleams,
+Like frost upon the earth it seems.
+I lift my head and watch the moon,
+Then bow — thoughts of home come soon.
 > **Grass on the Ancient Plain**
 > >
 > >> Wild grasses spread o'er ancient plain,
